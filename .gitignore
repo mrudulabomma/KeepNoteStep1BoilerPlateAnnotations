@@ -1,0 +1,16 @@
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+KeepNote-Step1-Boilerplate.iml
+.idea/
+.settings/
+.classpath/
+.hobbes/
+.project/
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+*.jar
